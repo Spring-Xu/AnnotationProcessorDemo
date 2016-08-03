@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'checkstyle'
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    compile project(':annotations')
+
+    // Square
+    compile 'com.squareup:javapoet:1.4.0'
+
+    //  Google project to get M
+    compile 'com.google.auto.service:auto-service:1.0-rc2'
+}
