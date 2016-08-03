@@ -13,9 +13,6 @@ import java.util.List;
 import static javax.lang.model.element.Modifier.FINAL;
 import static javax.lang.model.element.Modifier.PUBLIC;
 
-/**
- * Created by xuchun on 16/7/27.
- */
 public class BindingClass {
 
     private static final ClassName BINDER = ClassName.get("com.spring.annotationbind", "Binder");

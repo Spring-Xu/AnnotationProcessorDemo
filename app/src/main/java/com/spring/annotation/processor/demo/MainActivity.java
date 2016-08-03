@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     @BindString("bind string")
     public String message;
+
     @BindInt(123)
     public int messageId;
 

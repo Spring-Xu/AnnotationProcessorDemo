@@ -1,8 +1,5 @@
 package com.compiler;
 
-/**
- * Created by xuchun on 16/7/27.
- */
 public class IntBinding {
     private int value;
     private String name;

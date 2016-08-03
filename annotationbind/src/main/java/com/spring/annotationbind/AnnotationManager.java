@@ -2,9 +2,6 @@ package com.spring.annotationbind;
 
 import android.app.Activity;
 
-/**
- * Created by xuchun on 16/7/27.
- */
 public class AnnotationManager {
     private static final String BINDING_CLASS_SUFFIX = "$$AnnotationBinder";
 
