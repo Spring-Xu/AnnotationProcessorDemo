@@ -5,7 +5,7 @@
 # Contact me?
     Email:hquspring@gmail.com
     
-# Other open project:
+# Use other open project:
  ```Java
  // Square
  compile 'com.squareup:javapoet:1.4.0'
